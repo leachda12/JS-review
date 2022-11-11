@@ -1,0 +1,1 @@
+Setting up a store page to have a functional cart
